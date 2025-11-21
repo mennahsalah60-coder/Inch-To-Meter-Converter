@@ -41,3 +41,30 @@ section div {
         background-color: white;
     }
 }
+
+@media screen and (max-width: 1440px) {
+    section{
+        margin-top: 38%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    section{
+        margin-top: 50% !important;
+        width: 50% !important;
+    }
+}
+
+@media screen and (max-width: 786px) {
+    section{
+        margin-top: 60% !important;
+        width: 70% !important;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    section{
+        margin-top: 110% !important;
+        width: 100% !important;
+    }
+}
