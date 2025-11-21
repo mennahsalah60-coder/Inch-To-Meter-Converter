@@ -50,7 +50,7 @@ section div {
 
 @media screen and (max-width: 1024px) {
     section{
-        /* margin-top: 50% !important; */
+        margin-top: 50% !important;
         width: 50% !important;
     }
 }
