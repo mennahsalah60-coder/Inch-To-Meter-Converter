@@ -57,14 +57,12 @@ section div {
 
 @media screen and (max-width: 786px) {
     section{
-        /* margin-top: 60% !important; */
         width: 70% !important;
     }
 }
 
 @media screen and (max-width: 450px) {
     section{
-        /* margin-top: 110% !important; */
         width: 100% !important;
     }
 }
